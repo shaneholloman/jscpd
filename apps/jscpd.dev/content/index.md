@@ -67,29 +67,7 @@ Copy/Paste Detector for Source Code
   Hunt Duplicates
   :::
 
-  :::u-button
-  ---
-  color: neutral
-  icon: simple-icons-github
-  size: xl
-  to: https://github.com/kucherenko/jscpd
-  target: _blank
-  variant: outline
-  ---
-  Star on GitHub
-  :::
-
-  :::u-button
-  ---
-  color: neutral
-  size: xl
-  to: https://www.npmjs.com/package/jscpd
-  target: _blank
-  variant: ghost
-  icon: simple-icons-npm
-  ---
-  npm
-  :::
+  :product-hunt-badge
 
   :::u-button
   ---
